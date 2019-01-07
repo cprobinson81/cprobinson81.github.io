@@ -11,8 +11,8 @@ blockquote p { font-size: 16px; line-height: 1.6em; }
 .header, .footer, .header h3 { font-family: 'Montserrat', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; }
 
 /* Navigation */
-h3.text-muted a {text-decoration: none; color: #5a5a5a; }
-h3.text-muted a:hover { text-decoration: none; color: #47b63d; }
+h3.text-muted a {text-decoration: none; color: #999999; }
+h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
 
 img.avatar { margin-bottom: 30px; }
 		
