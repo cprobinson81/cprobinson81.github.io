@@ -1,5 +1,0 @@
-permalink: /writing/:year/:month/:day/:title
-markdown: kramdown
-plugins:
-- jekyll-org
-- jekyll-latex
