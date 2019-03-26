@@ -1,0 +1,17 @@
+Under <!-- Single Blog Area -->
+
+<div class="col-12 col-lg-6">
+                    <div class="single-post-area wow fadeInUpBig" data-wow-delay="100ms">
+                        <!-- Post Thumbnail -->
+                        <a href="#" class="post-thumbnail"><img src="img/blog-img/choose" alt=""></a>
+                        <!-- Post Catagory -->
+                        <a href="#" class="btn post-catagory">CATAGORY</a>
+                        <!-- Post Conetent -->
+                        <div class="post-content">
+                            <div class="post-meta">
+                                <a href="#">DATE</a>
+                            </div>
+                            <a href="BLOG LINK" class="post-title"></a>
+                        </div>
+                    </div>
+                </div>
