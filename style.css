@@ -1649,4 +1649,7 @@ input:required {
 border-radius: 15px;
 }
 
+/* E-Mail */
+.obfuscate { unicode-bidi: bidi-override; direction: rtl; }
+
 /*# sourceMappingURL=style.css.map */
