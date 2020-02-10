@@ -2,3 +2,51 @@
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html
+
+##
+##  httpd.conf
+##
+    :
+#   use the canonical hostname on redirects, etc.
+UseCanonicalName on
+
+    :
+#   add the virtual host in front of the CLF-format
+CustomLog  /path/to/access_log  "%{VHOST}e %h %l %u %t \"%r\" %>s %b"
+    :
+
+#   enable the rewriting engine in the main server
+RewriteEngine on
+
+#   define two maps: one for fixing the URL and one which defines
+#   the available virtual hosts with their corresponding
+#   DocumentRoot.
+RewriteMap    lowercase    int:tolower
+RewriteMap    vhost        txt:/path/to/vhost.map
+
+#   Now do the actual virtual host mapping
+#   via a huge and complicated single rule:
+#
+#   1. make sure we don't map for common locations
+RewriteCond   %{REQUEST_URI}  !^/commonurl1/.*
+RewriteCond   %{REQUEST_URI}  !^/commonurl2/.*
+    :
+RewriteCond   %{REQUEST_URI}  !^/commonurlN/.*
+#
+#   2. make sure we have a Host header, because
+#      currently our approach only supports
+#      virtual hosting through this header
+RewriteCond   %{HTTP_HOST}  !^$
+#
+#   3. lowercase the hostname
+RewriteCond   ${lowercase:%{HTTP_HOST}|NONE}  ^(.+)$
+#
+#   4. lookup this hostname in vhost.map and
+#      remember it only when it is a path
+#      (and not "NONE" from above)
+RewriteCond   ${vhost:%1}  ^(/.*)$
+#
+#   5. finally we can map the URL to its docroot location
+#      and remember the virtual host for logging puposes
+RewriteRule   ^/(.*)$   %1/$1  [E=VHOST:${lowercase:%{HTTP_HOST}}]
+    :
