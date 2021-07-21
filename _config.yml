@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "images/CPRLogoBlack.png"
+title                    : "/images/CPRLogoBlack.png"
 title_separator          : "-"
 name                     : &name "Clifton Paul Robinson"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "Boston, MA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=IrtdgTsAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
