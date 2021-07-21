@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CPRLogoBlack.png"
+title                    : "images/CPRLogoBlack.png"
 title_separator          : "-"
 name                     : &name "Clifton Paul Robinson"
 description              : &description "personal description"
