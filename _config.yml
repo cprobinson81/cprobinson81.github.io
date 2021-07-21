@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "CPR"
 title_separator          : "-"
-name                     : &name "zclifton Paul Robinson"
+name                     : &name "Clifton Paul Robinson"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cprobinson81.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cprobinson81/cprobinson81.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Clifton Paul Robinson"
-  avatar           : "images/robinson.jpeg"
+  avatar           : "robinson.jpeg"
   bio              : "Hello There"
   location         : "Boston, MA"
   employer         :
