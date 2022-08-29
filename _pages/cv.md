@@ -136,7 +136,7 @@ Teaching
     *  The Transport Layer
 
   
-Service and leadership
+Service & Leadership
 ======
 * Founding President of Upsilon Pi Epsilon - Zeta Chapter
   * The International Honor Society for the Computing and Information Disciplines
@@ -159,3 +159,23 @@ Skills
   * Eclipse
   * Microsoft Office
   * Photoshop
+
+Academic Memberships
+======
+* _Upsilon Pi Epsilon_ 
+  * International Honor Society for the Computing and Information Disciplines
+* _National Residence Hall Honorary_
+  * Leadership Honorary for On-Campus Student Leaders
+* _Pi Mu Epsilon_
+  * The U.S. Honorary National Mathematics Society
+
+Honors & Awards
+======
+* **Bridgewater State University**
+  * Dean’s List (All Semesters)
+  * Commonwealth Honors
+  * Computer Science Departmental Honors
+  * Mathematics Departmental Honors
+  * Award for Student Excellence
+* **Northeastern University**
+  * Academic Fellowship Recipient
