@@ -123,11 +123,11 @@ Teaching
 
 * **Guest Lectures**
   * _CS 3700 - Networks and Distributed Systems_
-   *  The Physical Layer
-   *  The Data Link Layer
-   *  Briding
-   *  Intra-Domain and Inter-Domain Routing
-   *  The Transport Layer
+    *  The Physical Layer
+    *  The Data Link Layer
+    *  Briding
+    *  Intra-Domain and Inter-Domain Routing
+    *  The Transport Layer
 
   
 Service and leadership
