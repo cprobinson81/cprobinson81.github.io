@@ -24,3 +24,7 @@ author_profile: true
 2018
 ======
 * **The Key to Cryptography: The RSA Algorithm**
+  * National Conference on Undergraduate Research 2018 (NCUR), Edmond, OK
+  * April 2018
+<img src="./images/ncur_poster.jpg" alt="NCUR Poster" style="width:500px;">
+
