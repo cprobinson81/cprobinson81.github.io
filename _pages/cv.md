@@ -71,9 +71,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* _A Prime Look at Cryptography: The RSA Public-Key_
+  * Published May 2018
+  * Undergraduate Honors Thesis
+  * Supervisor: Dr. Jacqueline Anderson, Dr. Margaret Black
+  * _Recommended Citation:_ Robinson, Clifton Paul. (2018). The Key to Cryptography: The RSA Algorithm. In _BSU Honors Program Theses and Projects_. Item 268. Available at: https://vc.bridgew.edu/honors_proj/268
   
 Research Projects
 ======
