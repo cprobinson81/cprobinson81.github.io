@@ -108,6 +108,12 @@ Talks & Presentations
   
 Teaching
 ======
+* **Academic Lecturer**
+  * Spring 2023 (_Upcoming_)
+  * Northeastern University
+  * CY 2550 - Foundations of Cybersecurity.
+  * The high-level goal of this course is to introduce the breadth of topics in the cybersecurity space to students, and begin training them to apply these ideas through understanding of defensive mechanisms and attacker strategies.
+
 * **Head Teaching Assistant**
   * Spring 2020
   * Northeastern University
