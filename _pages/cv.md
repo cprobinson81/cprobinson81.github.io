@@ -64,10 +64,16 @@ Publications
   
 Research Projects
 ======
+* **MITRE Corporation & Colosseum WIoT Joint Project**
+  * _May 2022 - Present_
+  * The Institute for the Wireless Internet of Things (WIoT) & The MITRE Corporation
+  * _**Project Description:**_ Security driven solutions utilizing the Colosseum Wireless Network Emulator.
+  * Supervisor(s): Professor Tommaso Melodia, Pedram Johari, Ph.D.
+
 * **Intelligence Advanced Research Projects Activity (IARPA) Program**
   * _December 2021 - Present_
   * The Institute for the Wireless Internet of Things (WIoT) & AiRANACULUS®
-  * _**Project Description:**_ Focused on identifying unexpected radio frequency (RF) transmissions to detect attempted data breaches. .
+  * _**Project Description:**_ Focused on identifying unexpected radio frequency (RF) transmissions to detect attempted data breaches.
   * Supervisor(s): Professor Tommaso Melodia, Professor Francesco Restuccia
 
 * **A Beginners Guide to Biometrics and the Law**
