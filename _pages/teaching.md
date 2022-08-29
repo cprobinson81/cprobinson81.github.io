@@ -15,4 +15,4 @@ author_profile: true
 
 Fundamentals of Cybersecurity
 ======
-Course Page <a href="/teaching/cy2550/">Here</a>
+Course Page <a href="https://cprob.com/teaching/cy2550/">Here</a>
