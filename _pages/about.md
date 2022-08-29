@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Clifton Paul Robinson. I'm currently a 4th year Ph.D. student at Northeastern University[a link](https://www.northeastern.edu/)).
+My name is Clifton Paul Robinson. I'm currently a 4th year Ph.D. student at <a href="http://example.com/" target="_blank">Northeastern University</a>.
