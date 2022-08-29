@@ -41,7 +41,7 @@ Work Experience
 * August 2019 - June 2020: Cybersecurity Research Consultant
   * <a href="https://globalresilience.northeastern.edu/" target="_blank">Global Resilience Institute at Northeastern University</a>
   * Duties included: Assisted and consulting on cybersecurity issues on their Critical Infrastructure Network (CINet) Project.
-  * Supervisor: Rob Knake
+  * Supervisor: Robert Knake
 
 * June 2017 - August 2017: Undergraduate Research Student
   * <a href="https://www.bridgew.edu/academics/undergraduate-research" target="_blank">Undergraduate Research at Bridgewater State University</a>
@@ -54,21 +54,6 @@ Work Experience
   * Instructed the introductory computer class, COMP 151 - Computer Science I.
   * Supervisor: Professor Torben Lorenzen
 
-Skills
-======
-* **_Programming:_**
-  * Python
-  * Java
-  * HTML
-  * LaTeX
-  * TensorFlow
-
-* **_Software:_**
-  * PyCharm
-  * Eclipse
-  * Microsoft Office
-  * Photoshop
-
 Publications
 ======
 * _A Prime Look at Cryptography: The RSA Public-Key_
@@ -79,7 +64,29 @@ Publications
   
 Research Projects
 ======
-* Skill 1
+* **Intelligence Advanced Research Projects Activity (IARPA) Program**
+  * _December 2021 - Present_
+  * The Institute for the Wireless Internet of Things (WIoT) & AiRANACULUS®
+  * _**Project Description:**_ Focused on identifying unexpected radio frequency (RF) transmissions to detect attempted data breaches. .
+  * Supervisor(s): Professor Tommaso Melodia, Professor Francesco Restuccia
+
+* **A Beginners Guide to Biometrics and the Law**
+  * _January 2021 - May 2021_
+  * Northeastern University
+  * _**Project Description:**_ A look into current biometric laws in the United States and around the world. Working on creating a guide to give a beginners look into the everchanging laws and technologies within biometric data.
+  * Supervisor: Kyle Courtney, Esq.
+
+* **CINet - A Critical Infrastructure Network**
+  * _August 2019 - June 2020_
+  * <a href="https://globalresilience.northeastern.edu/" target="_blank">Global Resilience Institute at Northeastern University</a>
+  * _**Project Description:**_ Creating and providing a separate, secure communications network for critical infrastructure owners and operators.
+  * Supervisor: Robert Knake
+
+* **Password Systems and Being Compliant with Article 25 of GDPR**
+  * _January 2020 - May 2020_
+  * Northeastern University
+  * _**Project Description:**_ A deep dive into how the EU's GDPR will impact password systems within the new guidelines provided and how to gain compliant systems.
+  * Supervisor: Dr. Woodrow Hartzog, Esq.
   
 Talks & Presentations
 ======
@@ -96,3 +103,18 @@ Teaching
 Service and leadership
 ======
 * 
+
+Skills
+======
+* **_Programming:_**
+  * Python
+  * Java
+  * HTML
+  * LaTeX
+  * TensorFlow
+
+* **_Software:_**
+  * PyCharm
+  * Eclipse
+  * Microsoft Office
+  * Photoshop
