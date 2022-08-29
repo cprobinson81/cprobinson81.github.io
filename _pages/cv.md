@@ -96,15 +96,39 @@ Research Projects
   
 Talks & Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* _**The Key to Cryptography: The RSA Algorithm**_
+  * _National Conference on Undergraduate Research 2018 (NCUR), Edmond, OK_
+  * April 2018
+  * Poster Presentation
+
+* _**Cyber Law: Past, Present, and Future**_
+  * _Massachusetts Statewide Undergraduate Research Conference, University of Massachusetts Amherst_
+  * April 2018
+  * Oral Presentation
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Head Teaching Assistant**
+  * Spring 2020
+  * Northeastern University
+  * For course CS 3700 - Networks and Distributed Systems.
+  * Assisted the professor in grading and creating homework assignments and projects.
+  * Guest lectured for multiple classes when a professor could not attend.
+
+* **Graduate Teaching Assistant**
+  * Northeastern University
+  * For courses CS 3700 - Networks and Distributed Systems and CS 5700 - Fundamentals of Computer Networking.
+  * Conducted office hours to assist students with extra help outside of class.
+  * Offered extra one-on-one tutoring for students who required it.
+
+* **Guest Lectures**
+  * _CS 3700 - Networks and Distributed Systems_
+   *  The Physical Layer
+   *  The Data Link Layer
+   *  Briding
+   *  Intra-Domain and Inter-Domain Routing
+   *  The Transport Layer
+
   
 Service and leadership
 ======
