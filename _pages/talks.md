@@ -4,6 +4,7 @@ title: "Talks & Presentations"
 permalink: /talks/
 author_profile: true
 ---
+<hr>
 
 {% if site.talkmap_link == true %}
 
