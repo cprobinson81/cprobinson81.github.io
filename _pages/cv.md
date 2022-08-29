@@ -17,6 +17,15 @@ Education
 * Ph.D in Cybersecurity, <a href="https://www.northeastern.edu/" target="_blank">Northeastern University</a>, 2024 (expected)
   * KCCIS Graduate Fellowship
 
+Areas of Interest
+======
+* Cybersecurity
+* Cyber Law & Policy
+* Network Security
+* Deep Learning-based Security Solutions
+* Adversarial Jamming Attacks & Mitigation
+* Computer Science in K-12 Education
+
 Work Experience
 ======
 * January 2021 - Current: Doctoral Student (Ph.D.) / Graduate Research Assistant
@@ -47,12 +56,18 @@ Work Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **_Programming:_**
+  * Python
+  * Java
+  * HTML
+  * LaTeX
+  * TensorFlow
+
+* **_Software:_**
+  * PyCharm
+  * Eclipse
+  * Microsoft Office
+  * Photoshop
 
 Publications
 ======
