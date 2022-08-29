@@ -138,7 +138,12 @@ Teaching
   
 Service and leadership
 ======
-* 
+* Founding President of Upsilon Pi Epsilon - Zeta Chapter
+  * The International Honor Society for the Computing and Information Disciplines
+* Former President of the National Residence Hall Honorary (NRHH) - BRISTACO Chapter
+  * The premiere honorary dedicated to recognizing leaders in the residence halls.
+* Associate Director of NRHH for NEACURH
+  * Helped facilitate the North East chapters of NRHH.
 
 Skills
 ======
