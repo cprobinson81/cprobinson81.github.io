@@ -17,7 +17,6 @@ If you wish to reach me, please email <a href="mailto:robinson.c@northeastern.ed
 
 <br>
 <hr>
-<br>
 
 
 <p align="center"><i>Download My CV or Resume Below:</i></p>
