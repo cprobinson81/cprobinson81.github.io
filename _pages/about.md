@@ -16,7 +16,7 @@ If you wish to reach me, please email <a href="mailto:robinson.c@northeastern.ed
 
 
 <p align="center"><i>Download My CV or Resume Below:</i></p>
-                  <div class="container">
+<div class="container">
   <div class="row">
     <div class="col" align="right">
       <a href="./files/CV22.pdf" target="_blank" download="Robinson CV">
@@ -28,3 +28,4 @@ If you wish to reach me, please email <a href="mailto:robinson.c@northeastern.ed
     <img src="./images/resumebutton.png" alt="Resume" style="width:70px;">
   </a>
   </div>
+</div>
