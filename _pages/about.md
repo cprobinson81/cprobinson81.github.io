@@ -22,7 +22,7 @@ If you wish to reach me, please email <a href="mailto:robinson.c@northeastern.ed
 
 <table class="center">
   <tr>
-    <td> <a href="./files/CV22.pdf" target="_blank" download="Robinson CV"><img src="./images/cvbutton.png" alt="CV" style="width:50px;"><br></a></td>
+    <td align='right'> <a href="./files/CV22.pdf" target="_blank" download="Robinson CV"><img src="./images/cvbutton.png" alt="CV" style="width:50px;"><br></a></td>
 
     <td> <a href="./files/Robinson_Resume_22.pdf" target="_blank" download="Robinson Resume"><img src="./images/resumebutton.png" alt="Resume" style="width:70px;"></a></td>
    </tr>
