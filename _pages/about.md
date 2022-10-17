@@ -15,9 +15,21 @@ My name is Clifton Paul Robinson. I'm currently a 4th year Cybersecurity Ph.D. s
 If you wish to reach me, please email <a href="mailto:robinson.c@northeastern.edu" target="_blank">robinson.c@northeastern.edu</a>.
 
 
+<div style="page-break-after: always;"></div>
+
+
 <p align="center"><i>Download My CV or Resume Below:</i></p>
-| <div class="col" align="right"><a href="./files/CV22.pdf" target="_blank" download="Robinson CV"><img src="./images/cvbutton.png" alt="CV" style="width:50px;"><br></a></div>    | <div class="col" align="left"><a href="./files/Robinson_Resume_22.pdf" target="_blank" download="Robinson Resume"><img src="./images/resumebutton.png" alt="Resume" style="width:70px;"></a></div>    |
---- | --- |
 
+<table>
+  <tr>
+    <td> <a href="./files/CV22.pdf" target="_blank" download="Robinson CV"><img src="./images/cvbutton.png" alt="CV" style="width:50px;"><br></a></td>
 
+    <td> <a href="./files/Robinson_Resume_22.pdf" target="_blank" download="Robinson Resume"><img src="./images/resumebutton.png" alt="Resume" style="width:70px;"></a></td>
+   </tr> 
+   <tr>
+      <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
 
+      <td><img src="./Scshot/trip_end.png" align="right" alt="4" width = 360px height = 640px>
+  </td>
+  </tr>
+</table>
