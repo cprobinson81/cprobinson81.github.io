@@ -24,8 +24,8 @@ If you wish to reach me, please email <a href="mailto:robinson.c@northeastern.ed
 
 <table class="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td align='right' style="border: 0"> <a href="./files/CV22.pdf" target="_blank" download="Robinson CV"><img src="./images/cvbutton.png" alt="CV" style="width:50px;"><br></a></td>
+    <td align='right' style="border: 0" width="50%"> <a href="./files/CV22.pdf" target="_blank" download="Robinson CV"><img src="./images/cvbutton.png" alt="CV" style="width:50px;"><br></a></td>
 
-    <td style="border: 0"> <a href="./files/Robinson_Resume_22.pdf" target="_blank" download="Robinson Resume"><img src="./images/resumebutton.png" alt="Resume" style="width:70px;"></a></td>
+    <td style="border: 0" width="50%"> <a href="./files/Robinson_Resume_22.pdf" target="_blank" download="Robinson Resume"><img src="./images/resumebutton.png" alt="Resume" style="width:70px;"></a></td>
    </tr>
 </table>
