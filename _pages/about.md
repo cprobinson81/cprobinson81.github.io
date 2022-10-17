@@ -15,7 +15,7 @@ My name is Clifton Paul Robinson. I'm currently a 4th year Cybersecurity Ph.D. s
 If you wish to reach me, please email <a href="mailto:robinson.c@northeastern.edu" target="_blank">robinson.c@northeastern.edu</a>.
 
 
-<div style="page-break-after: always;"></div>
+<hr>
 
 
 <p align="center"><i>Download My CV or Resume Below:</i></p>
