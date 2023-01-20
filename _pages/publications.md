@@ -14,6 +14,7 @@ author_profile: true
 
 2023
 ======
+* **C. Robinson**, L. Bonati, D. Uvaydov, S. D'Oro, T. Melodia, "Narrowband Interference Detection via Deep Learning", **ICC 2023 - IEEE International Conference on Communications**, Rome, Italy, May 2023.
 * **C. Robinson**, L. Bonati, T. van Nieuwstadt, T. Reiss, P. Johari, M. Polese, H. Nguyen, C. Wat- son, T. Melodia, "eSWORD: Implementation of Wireless Jamming Attacks in a Real-World Emulated Network", **IEEE Communications and Networking Conference (WCNC)**, Glasgow, Scotland, March 2023. <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/robinson2023wcnc.txt" target="_blank">[bibtex]</a>
 
 
