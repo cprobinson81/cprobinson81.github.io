@@ -137,6 +137,7 @@ redirect_from:
   </tr>
 </table>
 </div>
+
 <div align="center">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
@@ -160,3 +161,54 @@ redirect_from:
   </tr>
 </table>
 </div>
+
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Cybersecurity Research Consultant</strong><br>
+      <i>Global Resilience Institute</i>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Aug. 2019 - June 2020</strong><br>
+      Boston, MA
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <ul>
+  <li>Critical Infrastructure Network (CINet) funded by the U.S. Department of Energy</li>
+  <li>Offered insight and guidance on technical-related issues and solutions, drawing upon comprehensive knowledge and experience to provide effective problem-solving strategies and recommendations tailored to specific challenges.</li>
+  <li>Emphasized a focus on uni-directional communication systems to avoid data breaches, recognizing the importance of implementing robust security measures to safeguard sensitive information and mitigate the risk of unauthorized access or interception.</li>
+</ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Graduate Teaching Assistant</strong><br>
+      <i>Khoury College of Computer Science</i>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Sept. 2019 - Aug. 2020</strong><br>
+      Boston, MA
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <ul>
+  <li>CS 3700 - Networks & Distributed Systems, CS 5700 - Computer Networking</li>
+  <li>Conducted regular office hours to provide personalized assistance to students, clarifying course materials, answering questions, and offering guidance on assignments and projects.</li>
+  <li>Demonstrated strong organizational skills by efficiently managing grading responsibilities, and providing timely and constructive feedback to students.</li>
+  <li>Developed comprehensive homework assignments and exams that effectively assessed students' comprehension of course material and promoted critical thinking and problem-solving skills.</li>
+  <li>Maintained open communication with students and faculty, fostering a positive learning environment, and ensuring alignment between course objectives and student expectations.</li>
+</ul>
+    </td>
+  </tr>
+</table>
+</div>
+
