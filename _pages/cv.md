@@ -287,6 +287,57 @@ redirect_from:
 </table>
 </div>
 
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>2018</strong><br>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>The Key to Cryptography: The RSA Algorithm</strong><br>
+      <i>National Conference on Undergraduate Research 2018 (NCUR)</i><br><br>
+      <strong>Cyber Law: Past, Present, and Future</strong><br>
+      <i>Massachusetts Statewide Undergraduate Research Conference</i>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>April 2018</strong><br>
+      Edmond, OK<br><br>
+      <strong>April 2018</strong><br>
+      Amherst, MA
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>2017</strong><br>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>The Comparison and Implementation of Two Encryption Techniques</strong><br>
+      <i>Massachusetts Statewide Undergraduate Research Conference</i><br>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>April 2017</strong><br>
+      Amherst, MA
+    </td>
+  </tr>
+</table>
+</div>
 
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">TECHNICAL SKILLS & KNOWLEDGE</h2>
