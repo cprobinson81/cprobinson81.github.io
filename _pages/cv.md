@@ -401,6 +401,48 @@ redirect_from:
   <h2 style="margin: 0;">ACHIEVEMENTS & AWARDS</h2>
 </div>
 
+<div align="left">
+  <strong>NORTHEASTERN UNIVERSITY</strong>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>IEEE WCNC Student Travel Grant</strong><br>
+      strong>KCCIS Graduate Fellowship</strong>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      Spring 2023<br>
+      Fall 2018
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="left">
+  <strong>BRIDGEWATER STATE UNIVERSITY</strong>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Dean’s List</strong><br>
+      <strong>Commonwealth Honors</strong><br>
+      <strong>Computer Science Departmental Honors</strong><br>
+      <strong>Mathematics Departmental Honors</strong><br>
+      <strong>Award for Student Excellence</strong>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      All Semesters<br>
+      All Semesters<br>
+      Fall 2017<br>
+      Fall 2017<br>
+      Spring 2018<br>
+    </td>
+  </tr>
+</table>
+</div>
+
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">PROFESSIONAL MEMBERSHIPS</h2>
 </div>
