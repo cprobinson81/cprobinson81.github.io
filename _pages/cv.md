@@ -223,7 +223,7 @@ redirect_from:
       <strong>C. P. Robinson</strong>, D. Uvaydov, S. D'Oro, and T. Melodia, "<i>DeepSweep:</i> Parallel and Scalable Spectrum Sensing via Convolutional Neural Networks," <i>ICMLCN 2024 - IEEE International Conference on Machine Learning for Communication and Networking</i>, Stockholm, Sweden, 2024.<br><br>
       D. Villa, M. Tehrani-Moayyed, <strong>C. P. Robinson</strong>, L. Bonati, P. Johari, M. Polese, T. Melodia, "Colosseum as a Digital Twin: Bridging Real-World Experimentation and Wireless Network Emulation," in <i>IEEE Transactions on Mobile Computing</i>.<br><br>
       <strong>2023</strong><br>
-      <strong>C. P. Robinson</strong>, L. Bonati, T. van Nieuwstadt, T. Reiss, P. Johari, M. Polese, H. Nguyen, C. Wat- son, T. Melodia, “<i>eSWORD:</i> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network”, <i>IEEE Wireless Communications and Networking Conference (WCNC)</i>, Glasgow, Scotland, March 2023.<br><br>
+      <strong>C. P. Robinson</strong>, L. Bonati, T. van Nieuwstadt, T. Reiss, P. Johari, M. Polese, H. Nguyen, C. Watson, T. Melodia, “<i>eSWORD:</i> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network”, <i>IEEE Wireless Communications and Networking Conference (WCNC)</i>, Glasgow, Scotland, March 2023.<br><br>
       <strong>C. P. Robinson</strong>, D. Uvaydov, S. D'Oro, and T. Melodia, "Narrowband Interference Detection via Deep Learning," <i>ICC 2023 - IEEE International Conference on Communications</i>, Rome, Italy, 2023.<br><br>
       <strong>2018</strong><br>
       <strong>Robinson, Clifton Paul</strong>. (2018). The Key to Cryptography: The RSA Algorithm. In BSU Honors Program Theses and Projects.
@@ -235,6 +235,58 @@ redirect_from:
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">TALKS & PRESENTATIONS</h2>
 </div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>2024</strong><br>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong><i>DeepSweep:</i> Parallel and Scalable Spectrum Sensing via Convolutional Neural Networks</strong><br>
+      <i>IEEE ICMLCN</i><br>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>May 2024</strong><br>
+      Stockholm, Sweden
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>2023</strong><br>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong><i>eSWORD:</i> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network</strong><br>
+      <i>WIoT Industry Day 2023<br><br>
+      <strong><i>eSWORD:</i> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network</strong><br>
+      <i>IEEE Wireless Communications and Networking Conference (WCNC)</i>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>May 2023</strong><br>
+      Boston, MA<br><br>
+      <strong>May 2023</strong><br>
+      Glasgow, Scotland
+    </td>
+  </tr>
+</table>
+</div>
+
 
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">TECHNICAL SKILLS & KNOWLEDGE</h2>
