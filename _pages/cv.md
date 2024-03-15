@@ -409,7 +409,7 @@ redirect_from:
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
       <strong>IEEE WCNC Student Travel Grant</strong><br>
-      strong>KCCIS Graduate Fellowship</strong>
+      <strong>KCCIS Graduate Fellowship</strong>
     </td>
     <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
       Spring 2023<br>
@@ -445,4 +445,25 @@ redirect_from:
 
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">PROFESSIONAL MEMBERSHIPS</h2>
+</div>
+
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>IEEE Membership</strong><br>
+      <strong>IEEE Communications Society</strong><br>
+      <strong>IEEE Young Professionals</strong><br>
+      <strong>Pi Mu Epsilon (PME) | Gamma Chapter</strong><br>
+      <strong>Upsilon Pi Epsilon (UPE) | Zeta Chapter</strong>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      Jan. 2023<br>
+      Jan. 2023<br>
+      Jan. 2023<br>
+      May 2018<br>
+      May 2018<br>
+    </td>
+  </tr>
+</table>
 </div>
