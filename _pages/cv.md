@@ -53,7 +53,7 @@ redirect_from:
       and wireless spectrum digital twins.</i>
     </td>
     <td style="text-align: right; padding: 0;">
-      Boston, MA
+      Boston, MA<br>
       GPA: 3.783
     </td>
   </tr>
