@@ -373,10 +373,9 @@ redirect_from:
       Markup (LaTeX, HTML)<br>
       Software (PyCharm, Eclipse, Microsoft Office, Photoshop)<br><br>
       <strong>Familiarity with Regulations/Frameworks:</strong><br>
-      US Export Controls<br>
+      U.S. Export Controls<br>
       General Data Protection Regulation (GDPR)<br>
       U.S. Privacy & Data Laws
-
     </td>
     <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
       <strong>Professional Skills:</strong><br>
