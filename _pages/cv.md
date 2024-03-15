@@ -273,7 +273,7 @@ redirect_from:
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
       <strong><i>eSWORD:</i> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network</strong><br>
-      <i>WIoT Industry Day 2023<br><br>
+      <i>WIoT Industry Day 2023</i><br><br>
       <strong><i>eSWORD:</i> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network</strong><br>
       <i>IEEE Wireless Communications and Networking Conference (WCNC)</i>
     </td>
