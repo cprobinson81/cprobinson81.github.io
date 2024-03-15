@@ -47,9 +47,9 @@ redirect_from:
  <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border: 1px solid white;">
   <tr>
     <td style="text-align: left; padding: 0;">
-      <i>Ph.D. in Cybersecurity
-      M.S. in Cybersecurity
-      Researched AI-based spectrum sensing, wireless security,
+      <i>Ph.D. in Cybersecurity<br>
+      M.S. in Cybersecurity<br>
+      Researched AI-based spectrum sensing, wireless security,<br>
       and wireless spectrum digital twins.</i>
     </td>
     <td style="text-align: right; padding: 0;">
