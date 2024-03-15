@@ -239,7 +239,7 @@ redirect_from:
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>2024</strong><br>
+      <strong>2024</strong>
     </td>
   </tr>
 </table>
@@ -263,7 +263,7 @@ redirect_from:
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>2023</strong><br>
+      <strong>2023</strong>
     </td>
   </tr>
 </table>
@@ -291,7 +291,7 @@ redirect_from:
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>2018</strong><br>
+      <strong>2018</strong>
     </td>
   </tr>
 </table>
@@ -319,7 +319,7 @@ redirect_from:
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>2017</strong><br>
+      <strong>2017</strong>
     </td>
   </tr>
 </table>
@@ -334,6 +334,40 @@ redirect_from:
     <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
       <strong>April 2017</strong><br>
       Amherst, MA
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Academic Guest Lectures</strong>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>CS 2550 - Foundations of Cybersecurity</strong><br>
+      <i>Cyberlaw and Cybersecurity Ethics</i><br><br>
+      <strong>CS 3700 - Networks and Distributed Systems</strong><br>
+      <i>
+        The OSI Model - The Physical Layer<br>
+        The OSI Model - The Data Link Layer<br>
+        The OSI Model - The Transport Layer<br>
+        Intra-Domain and Inter-Domain Routing<br>
+        Network Bridging and Subnetworks
+      </i>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Fall 2023</strong><br>
+      Boston, MA<br><br>
+      <strong>Spring 2020</strong><br>
+      Boston, MA
     </td>
   </tr>
 </table>
