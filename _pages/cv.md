@@ -15,12 +15,12 @@ redirect_from:
   <h2 style="margin: 0;">PROFILE</h2>
 </div>
 <div align="center">
-  Dynamic and innovative Cybersecurity Ph.D. candidate at a leading research institution<br>
-  specializing in wireless network security. Extensive experience in academic research at the<br>
-    forefront of the field, with a focus on adversarial signals, signal processing, and detection<br>
-  leveraging deep learning techniques. Actively exploring the application of digital twin<br>
-  technology to enhance understanding and management of the wireless spectrum. Passionate<br>
-  about contributing to advancements in cybersecurity and wireless communication through<br>
+  Dynamic and innovative Cybersecurity Ph.D. candidate at a leading research institution
+  specializing in wireless network security. Extensive experience in academic research at the
+    forefront of the field, with a focus on adversarial signals, signal processing, and detection
+  leveraging deep learning techniques. Actively exploring the application of digital twin
+  technology to enhance understanding and management of the wireless spectrum. Passionate
+  about contributing to advancements in cybersecurity and wireless communication through
   rigorous academic inquiry and collaborative research efforts.
 </div>
 
