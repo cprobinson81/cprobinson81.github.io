@@ -92,7 +92,7 @@ redirect_from:
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>Research Assistant</strong>
+      <strong>Research Assistant</strong><br>
       <i>Institute for the Wireless Internet of Things</i>
     </td>
     <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
