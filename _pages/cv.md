@@ -221,7 +221,12 @@ redirect_from:
       <strong>2024</strong><br>
       D. Uvaydov, M. Zhang, <strong>C. P. Robinson</strong>, S. D'Oro, T. Melodia and Francesco Restuccia, "<i>Stitching the Spectrum:</i> Semantic Spectrum Segmentation with Wideband Signal," <i>INFOCOM 2024 - IEEE International Conference on Computer Communications</i>, Vancouver, Canada, 2024.<br><br>
       <strong>C. P. Robinson</strong>, D. Uvaydov, S. D'Oro, and T. Melodia, "<i>DeepSweep:</i> Parallel and Scalable Spectrum Sensing via Convolutional Neural Networks," <i>ICMLCN 2024 - IEEE International Conference on Machine Learning for Communication and Networking</i>, Stockholm, Sweden, 2024.<br><br>
-      D. Villa, M. Tehrani-Moayyed, <strong>C. P. Robinson</strong>, L. Bonati, P. Johari, M. Polese, T. Melodia, "Colosseum as a Digital Twin: Bridging Real-World Experimentation and Wireless Network Emulation," in <i>EEE Transactions on Mobile Computing</i>.
+      D. Villa, M. Tehrani-Moayyed, <strong>C. P. Robinson</strong>, L. Bonati, P. Johari, M. Polese, T. Melodia, "Colosseum as a Digital Twin: Bridging Real-World Experimentation and Wireless Network Emulation," in <i>IEEE Transactions on Mobile Computing</i>.<br><br>
+      <strong>2023</strong><br>
+      <strong>C. P. Robinson</strong>, L. Bonati, T. van Nieuwstadt, T. Reiss, P. Johari, M. Polese, H. Nguyen, C. Wat- son, T. Melodia, “<i>eSWORD:</i> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network”, <i>IEEE Wireless Communications and Networking Conference (WCNC)</i>, Glasgow, Scotland, March 2023.<br><br>
+      <strong>C. P. Robinson</strong>, D. Uvaydov, S. D'Oro, and T. Melodia, "Narrowband Interference Detection via Deep Learning," <i>ICC 2023 - IEEE International Conference on Communications</i>, Rome, Italy, 2023.<br><br>
+      <strong>2018</strong><br>
+      <strong>Robinson, Clifton Paul</strong>. (2018). The Key to Cryptography: The RSA Algorithm. In BSU Honors Program Theses and Projects.
     </td>
   </tr>
 </table>
