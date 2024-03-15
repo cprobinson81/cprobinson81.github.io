@@ -112,6 +112,51 @@ redirect_from:
     </td>
   </tr>
 </table>
-
 </div>
 
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Signal Analysis Graduate Intern</strong><br>
+      <i>The MITRE Corporation</i>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>May 2023 - Aug. 2023</strong><br>
+      Bedford, MA
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <ul>
+  <li>Specialized in Research and Development (R&D) and Signal Processing, I consistently sought out innovative methodologies and technologies to address complex challenges within these fields, leveraging my expertise to drive impactful solutions.</li>
+  <li>With a specific focus on RF Fingerprinting and large-scale spectrum infrastructure deployment, I dedicated significant efforts to understanding and optimizing these critical aspects of wireless communication systems, aiming to enhance security, efficiency, and reliability in real-world deployment scenarios.</li>
+  <li>In managing dual projects, I adeptly balanced individual research pursuits with collaborative team efforts, actively participating in research discussions to contribute valuable insights while ensuring alignment with project objectives and timelines. Through effective communication and coordination, I facilitated synergy between individual and team research endeavors, maximizing productivity and outcomes.</li>
+</ul>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Instructor of Record</strong><br>
+      <i>Khoury College of Computer Science</i>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Jan. 2023 - May 2023</strong><br>
+      Boston, MA
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <ul>
+  <li>As an instructor for the course CY 2550 - Foundations of Cybersecurity, I provided comprehensive guidance and instruction to students, ensuring they grasped fundamental concepts and principles essential for navigating the complex landscape of cybersecurity.</li>
+  <li>I designed engaging lesson plans for CY 2550, leveraging real-world case studies to contextualize theoretical concepts and facilitate deeper understanding among students.</li>
+  <li>To ensure the course material remained relevant and aligned with the rapidly evolving field of cybersecurity, continuously integrated current cyber trends and practices into the curriculum, equipping students with up-to-date knowledge and skills essential for success in the field.</li>
+</ul>
+    </td>
+  </tr>
+</table>
+</div>
