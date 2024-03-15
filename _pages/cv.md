@@ -43,5 +43,5 @@ redirect_from:
   <h2 style="margin: 0;">EDUCATION</h2>
 </div>
 <div align="center">
-  Northeastern University……………………………………………………. Sept. 2018 - Present
+  Northeastern University……………………………………………… Sept. 2018 - Present
 </div>
