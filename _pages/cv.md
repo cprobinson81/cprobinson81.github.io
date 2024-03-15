@@ -214,6 +214,18 @@ redirect_from:
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">RESEARCH / PUBLICATIONS</h2>
 </div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>2024</strong><br>
+      D. Uvaydov, M. Zhang, <strong>C. P. Robinson</strong>, S. D'Oro, T. Melodia and Francesco Restuccia, "<i>Stitching the Spectrum:</i> Semantic Spectrum Segmentation with Wideband Signal," <i>INFOCOM 2024 - IEEE International Conference on Computer Communications</i>, Vancouver, Canada, 2024.<br><br>
+      <strong>C. P. Robinson</strong>, D. Uvaydov, S. D'Oro, and T. Melodia, "<i>DeepSweep:</i> Parallel and Scalable Spectrum Sensing via Convolutional Neural Networks," <i>ICMLCN 2024 - IEEE International Conference on Machine Learning for Communication and Networking</i>, Stockholm, Sweden, 2024.<br><br>
+      D. Villa, M. Tehrani-Moayyed, <strong>C. P. Robinson</strong>, L. Bonati, P. Johari, M. Polese, T. Melodia, "Colosseum as a Digital Twin: Bridging Real-World Experimentation and Wireless Network Emulation," in <i>EEE Transactions on Mobile Computing</i>.
+    </td>
+  </tr>
+</table>
+</div>
 
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">TALKS & PRESENTATIONS</h2>
