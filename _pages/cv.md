@@ -348,7 +348,13 @@ redirect_from:
 </div>
 
 <div align="center">
-  <strong>Coding and Machine Learning/Deep Learning:</strong>
+  <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 0; border: 0px solid white; vertical-align: top;">
+      <strong>Coding and Machine Learning/Deep Learning:</strong>
+    </td>
+  </tr>
+</table>
 </div>
 <div align="center">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
