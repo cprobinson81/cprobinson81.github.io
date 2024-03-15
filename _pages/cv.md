@@ -235,14 +235,8 @@ redirect_from:
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">TALKS & PRESENTATIONS</h2>
 </div>
-<div align="center">
-<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>2024</strong>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <strong>2024</strong>
 </div>
 <div align="center">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
@@ -259,14 +253,8 @@ redirect_from:
 </table>
 </div>
 
-<div align="center">
-<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>2023</strong>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <strong>2023</strong>
 </div>
 <div align="center">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
@@ -287,14 +275,8 @@ redirect_from:
 </table>
 </div>
 
-<div align="center">
-<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>2018</strong>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <strong>2018</strong>
 </div>
 <div align="center">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
@@ -315,14 +297,8 @@ redirect_from:
 </table>
 </div>
 
-<div align="center">
-<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>2017</strong>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <strong>2017</strong>
 </div>
 <div align="center">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
