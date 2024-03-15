@@ -54,7 +54,7 @@ redirect_from:
     </td>
     <td style="text-align: right; padding: 0; border: 1px solid white;">
       Boston, MA<br>
-      GPA: 3.783
+      GPA: 3.783<br><br>
     </td>
   </tr>
 </table>
