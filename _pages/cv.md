@@ -339,17 +339,10 @@ redirect_from:
 </table>
 </div>
 
-<div align="center">
-<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
-      <strong>Academic Guest Lectures</strong>
-    </td>
-  </tr>
-</table>
-</div>
-<div align="center">
+<div align="left">
   <strong>Academic Guest Lectures</strong>
+</div>
+<div align="left">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
