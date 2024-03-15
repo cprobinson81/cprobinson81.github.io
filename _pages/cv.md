@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 <hr>
-<br>
 
 {% include base_path %}
 
@@ -212,3 +211,22 @@ redirect_from:
 </table>
 </div>
 
+<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+  <h2 style="margin: 0;">RESEARCH / PUBLICATIONS</h2>
+</div>
+
+<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+  <h2 style="margin: 0;">TALKS & PRESENTATIONS</h2>
+</div>
+
+<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+  <h2 style="margin: 0;">TECHNICAL SKILLS & KNOWLEDGE</h2>
+</div>
+
+<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+  <h2 style="margin: 0;">ACHIEVEMENTS & AWARDS</h2>
+</div>
+
+<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+  <h2 style="margin: 0;">PROFESSIONAL MEMBERSHIPS</h2>
+</div>
