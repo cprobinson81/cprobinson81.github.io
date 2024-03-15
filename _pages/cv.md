@@ -100,19 +100,18 @@ redirect_from:
       Boston, MA
     </td>
   </tr>
-</table>
-  <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+    <td colspan="2" style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
       <ul>
-  <li>Appointed at the Institute for the Wireless Internet of Things at Northeastern University.</li>
-  <li>Conducted foundational research in wireless network security, deep learning-based spectrum sensing, and communication security, contributing novel insights and advancements through investigation, experimentation, and analysis.</li>
-  <li>Helped in foundational research on digital twin applications within the wireless spectrum domain, enhancing spectrum sensing and resource management techniques through innovative strategies and experimental frameworks.</li>
-  <li>Collaborated with interdisciplinary teams to address key challenges in wireless communication security, driving projects forward and contributing to the development of cutting-edge solutions.</li>
-  <li>Demonstrated expertise in theoretical and practical aspects of wireless network security, deep learning implementations, and communication security through published research in reputable journals and conference proceedings.</li>
-</ul>
+        <li>Appointed at the Institute for the Wireless Internet of Things at Northeastern University.</li>
+        <li>Conducted foundational research in wireless network security, deep learning-based spectrum sensing, and communication security, contributing novel insights and advancements through investigation, experimentation, and analysis.</li>
+        <li>Helped in foundational research on digital twin applications within the wireless spectrum domain, enhancing spectrum sensing and resource management techniques through innovative strategies and experimental frameworks.</li>
+        <li>Collaborated with interdisciplinary teams to address key challenges in wireless communication security, driving projects forward and contributing to the development of cutting-edge solutions.</li>
+        <li>Demonstrated expertise in theoretical and practical aspects of wireless network security, deep learning implementations, and communication security through published research in reputable journals and conference proceedings.</li>
+      </ul>
     </td>
   </tr>
 </table>
+
 </div>
 
