@@ -44,4 +44,10 @@ redirect_from:
 </div>
 <div align="center">
   Northeastern University……………………………………………… Sept. 2018 - Present
+  <table cellpadding="0" cellspacing="0" border="0" style="background-color: white;">
+  <tr>
+    <td style="text-align: left; padding: 0;">Left Column Text</td>
+    <td style="text-align: right; padding: 0;">Right Column Text</td>
+  </tr>
+</table>
 </div>
