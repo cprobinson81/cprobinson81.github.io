@@ -24,6 +24,8 @@ redirect_from:
   rigorous academic inquiry and collaborative research efforts.
 </div>
 
+<br>
+
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">RESEARCH TOPICS</h2>
 </div>
@@ -35,6 +37,9 @@ redirect_from:
   Cyber Law & Policy, specifically the Wireless Spectrum
 </div>
 
+<br>
+
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">EDUCATION</h2>
 </div>
+Northeastern University……………………………………………………. Sept. 2018 - Present
