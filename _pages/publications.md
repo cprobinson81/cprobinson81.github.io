@@ -12,6 +12,19 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>2024</h2>
+<ul>
+  <li>
+    D. Uvaydov, M. Zhang, <strong>C. Robinson</strong>, S. D'Oro, T. Melodia and F. Restuccia, <i>"Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching,"</i> <strong>Proc. of IEEE Intl. Conf. on Computer Communications (INFOCOM)</strong>, Vancouver, BC, Canada, May 2024. <a href="https://ece.northeastern.edu/wineslab/papers/UvaydovINFOCOM2024.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/uvaydov2024infocom.txt" target="_blank">[bibtex]</a>
+  </li>
+  <li>
+    D. Villa, M. Tehrani-Moayyed, <strong>C. Robinson</strong>, L. Bonati, P. Johari, M. Polese, T. Melodia, <i>"Colosseum as a Digital Twin: Bridging Real-World Experimentation and Wireless Network Emulation,"<\i> <strong>IEEE Transactions on Mobile Computing</strong>, in press, 2024. <a href="https://ece.northeastern.edu/wineslab/papers/villa2024dt.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/villa2024dt.txt" target="_blank">[bibtex]</a>
+  </li>
+  <li>
+    <strong>C. Robinson</strong>, D. Uvaydov, S. D'Oro, T. Melodia, <i>"DeepSweep: Parallel and Scalable Spectrum Sensing via Convolutional Neural Networks,",</i> <strong>Proc. of IEEE Intl. Conf. on Machine Learning for Communication and Networking (ICMLCN)</strong>, Stockholm, Sweden, April 2024. <a href="https://arxiv.org/pdf/2401.04805.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/robinson2024icmlcn.txt" target="_blank">[bibtex]</a>
+  </li>
+</ul>
+
 <h2>2023</h2>
 <ul>
   <li>
