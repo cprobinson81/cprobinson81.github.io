@@ -44,18 +44,19 @@ redirect_from:
 </div>
 <div align="center">
   Northeastern University……………………………………………… Sept. 2018 - Present
- <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border: 1px solid white;">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
-    <td style="text-align: left; padding: 0;">
+    <td style="text-align: left; padding: 0; border: 1px solid white;">
       <i>Ph.D. in Cybersecurity<br>
       M.S. in Cybersecurity<br>
       Researched AI-based spectrum sensing, wireless security,<br>
       and wireless spectrum digital twins.</i>
     </td>
-    <td style="text-align: right; padding: 0;">
+    <td style="text-align: right; padding: 0; border: 1px solid white;">
       Boston, MA<br>
       GPA: 3.783
     </td>
   </tr>
 </table>
+
 </div>
