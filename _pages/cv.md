@@ -102,7 +102,7 @@ redirect_from:
 </table>
   <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
-    <td style="text-align: center; padding: 0; border: 1px solid white; vertical-align: top;">
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
       <ul>
   <li>Appointed at the Institute for the Wireless Internet of Things at Northeastern University.</li>
   <li>Conducted foundational research in wireless network security, deep learning-based spectrum sensing, and communication security, contributing novel insights and advancements through investigation, experimentation, and analysis.</li>
