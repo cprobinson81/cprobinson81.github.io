@@ -347,6 +347,24 @@ redirect_from:
   <h2 style="margin: 0;">TECHNICAL SKILLS & KNOWLEDGE</h2>
 </div>
 
+<div align="center">
+  <strong>Coding and Machine Learning/Deep Learning:</strong>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Python……………………………. Proficient</strong><br>
+      <strong>Java…………………………………….. Fair</strong>
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>TensorFlow (ML/AI)………………... Expert</strong><br>
+      <strong>C++…………………………………….. Fair</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">ACHIEVEMENTS & AWARDS</h2>
 </div>
