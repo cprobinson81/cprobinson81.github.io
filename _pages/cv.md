@@ -14,6 +14,7 @@ redirect_from:
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">PROFILE</h2>
 </div>
+<div align="center">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: center; padding: 0; border: 1px solid white; vertical-align: top;">
@@ -27,14 +28,16 @@ redirect_from:
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">RESEARCH TOPICS</h2>
 </div>
+<div align="center">
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: center; padding: 0; border: 1px solid white; vertical-align: top;">
-      DNetwork Security<br>
+      Network Security<br>
       Deep Learning-based Security Solutions<br>
       Adversarial Jamming Attacks & Mitigation<br>
       Digital Twins for the Wireless Spectrum<br>
@@ -42,6 +45,7 @@ redirect_from:
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">EDUCATION</h2>
