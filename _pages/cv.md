@@ -364,6 +364,34 @@ redirect_from:
   </tr>
 </table>
 </div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Technologies:</strong><br>
+      Bash - security, networking, & scripting)<br>
+      Markup (LaTeX, HTML)<br>
+      Software (PyCharm, Eclipse, Microsoft Office, Photoshop)<br><br>
+      <strong>Familiarity with Regulations/Frameworks:</strong><br>
+      US Export Controls<br>
+      General Data Protection Regulation (GDPR)<br>
+      U.S. Privacy & Data Laws
+
+    </td>
+    <td style="text-align: right; padding: 0; border: 1px solid white; vertical-align: top;">
+      <strong>Professional Skills:</strong><br>
+      Oral & written communications<br>
+      Teamwork<br>
+      Leadership<br>
+      Public Speaking<br>
+      Academic Writing<br>
+      Quantitative and Qualitative Research<br>
+      Cyber & Resilience Policy
+
+    </td>
+  </tr>
+</table>
+</div>
 
 <div align="center" style="background-color: lightgrey; padding: 5px 10px;">
   <h2 style="margin: 0;">ACHIEVEMENTS & AWARDS</h2>
