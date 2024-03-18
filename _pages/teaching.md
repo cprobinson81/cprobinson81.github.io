@@ -8,7 +8,11 @@ author_profile: true
 
 CY 2550 - Fundamentals of Cybersecurity
 ======
-**Course Overview:** Presents an overview of basic principles and security concepts related to information systems, including workstation security, system security, and communications security. Discusses legal, ethical, and human factors and professional issues associated with cybersecurity, including the ability to differentiate between laws and ethics. Offers students an opportunity to use a substantial variety of existing software tools to probe both computer systems and networks in order to learn how these systems function, how data moves within these systems, and how these systems might be vulnerable. Covers security methods, controls, procedures, economics of cybercrime, criminal procedure, and forensics.
+**Course Overview:** Major security breaches routinely make headline news and impact the lives of millions of people. Cybercrime is a multi-million dollar, mature business. Advanced, persistent threats posed by nation-state adversaries are beginning to impact critical infrastructure, and even democratic processes themselves. As technology becomes embedded in ever more facets of our lives, society, business, and government, the need for cybersecurity experts to protect our infrastructure grows.
+
+This course presents an overview of basic cybersecurity principles and concepts, including systems and communications security. The high-level goal is to introduce the breadth of topics in the cybersecurity space to students and begin training them to apply these ideas through an understanding of defensive mechanisms and attacker strategies.
+
+The course will cover essential security properties like confidentiality and integrity, as well as desirable properties like least privilege and defense in depth. Concepts will be illustrated with practical tools, systems, and applications that exemplify them. Hands-on projects will introduce students to key security tools and libraries.
 
 **Previously Taught:** _Spring 2023_
 
