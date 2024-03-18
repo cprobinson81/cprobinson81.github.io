@@ -8,17 +8,17 @@ author_profile: true
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 0.1px solid white; vertical-align: top;">
-      <h1>2024</h1>
-      <h2><strong><em>DeepSweep:</em> Parallel and Scalable Spectrum Sensing via Convolutional Neural Networks</strong></h2>
-    <ul>
-      <li>IEEE International Conference on Machine Learning for Communication and Networking (IEEE ICMLCN 2024), Stockholm, Sweden</li>
-      <li>May 2024</li>
-      <li><strong><em>Abstract:</em></strong> Spectrum sensing is an essential component of modern wireless networks as it offers a tool to characterize spectrum usage and better utilize it. Deep Learning (DL) has become one of the most used techniques to perform spectrum sensing as they are capable of delivering high accuracy and reliability. However, current techniques suffer from ad-hoc implementations and high complexity, which makes them unsuited for practical deployment on wireless systems where flexibility and fast inference time are necessary to support real-time spectrum sensing. In this paper, we introduce DeepSweep, a novel DL-based transceiver design that allows scalable, accurate, and fast spectrum sensing while maintaining a high level of customizability to adapt its design to a broad range of application scenarios and use cases. DeepSweep is designed to be seamlessly integrated with well-established transceiver designs and leverages shallow convolutional neural network (CNN) to "sweep" the spectrum and process captured IQ samples fast and reliably without interrupting ongoing demodulation and decoding operations. DeepSweep reduces training and inference times by more than 2 times and 10 times respectively, achieves up to 98 percent accuracy in locating spectrum activity, and produces outputs in less than 1 ms, thus showing that DeepSweep can be used for a broad range of spectrum sensing applications and scenarios.</li>
-    </ul>
-  </li>
+      <h1 style="margin: 0;">2024</h1>
+      <h2 style="margin-top: 0;"><strong><em>DeepSweep:</em> Parallel and Scalable Spectrum Sensing via Convolutional Neural Networks</strong></h2>
+      <ul style="margin-top: 0;">
+        <li>IEEE International Conference on Machine Learning for Communication and Networking (IEEE ICMLCN 2024), Stockholm, Sweden</li>
+        <li>May 2024</li>
+        <li><strong><em>Abstract:</em></strong> Spectrum sensing is an essential component of modern wireless networks as it offers a tool to characterize spectrum usage and better utilize it. Deep Learning (DL) has become one of the most used techniques to perform spectrum sensing as they are capable of delivering high accuracy and reliability. However, current techniques suffer from ad-hoc implementations and high complexity, which makes them unsuited for practical deployment on wireless systems where flexibility and fast inference time are necessary to support real-time spectrum sensing. In this paper, we introduce DeepSweep, a novel DL-based transceiver design that allows scalable, accurate, and fast spectrum sensing while maintaining a high level of customizability to adapt its design to a broad range of application scenarios and use cases. DeepSweep is designed to be seamlessly integrated with well-established transceiver designs and leverages shallow convolutional neural network (CNN) to "sweep" the spectrum and process captured IQ samples fast and reliably without interrupting ongoing demodulation and decoding operations. DeepSweep reduces training and inference times by more than 2 times and 10 times respectively, achieves up to 98 percent accuracy in locating spectrum activity, and produces outputs in less than 1 ms, thus showing that DeepSweep can be used for a broad range of spectrum sensing applications and scenarios.</li>
+      </ul>
     </td>
   </tr>
 </table>
+
 
 2023
 ======
