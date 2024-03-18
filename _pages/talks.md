@@ -28,24 +28,16 @@ author_profile: true
         <li>WIoT Industry Day 2023, Boston, MA</li>
         <li>May 2023</li>
       </ul>
-      <br> 
       <img src="../images/esword_poster_23.jpg" alt="WIoT Day Poster" style="width:500px;">
-      <br>
+      <h2 style="margin-top: 0;"><strong><em>eSWORD:</em> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network</strong></h2>
+      <ul style="margin-top: 0;">
+        <li>IEEE Wireless Communications and Networking Conference (IEEE WCNC 2023), Glasgow, Scotland</li>
+        <li>March 2023</li>
+        <li><strong><em>Abstract:</em></strong> Jamming attacks have plagued wireless communication systems and will continue to do so going forward with technological advances. These attacks fall under the category of Electronic Warfare (EW), a continuously growing area in both attack and defense of the electromagnetic spectrum, with one subcategory being electronic attacks (EA). Jamming attacks fall under this specific subcategory of EW as they comprise adversarial signals that attempt to disrupt, deny, degrade, destroy, or deceive legitimate signals in the electromagnetic spectrum. While jamming is not going away, recent research advances have started to get the upper hand against these attacks by leveraging new methods and techniques, such as machine learning. However, testing such jamming solutions on a wide and realistic scale is a daunting task due to strict regulations on spectrum emissions. In this paper, we introduce eSWORD (emulation (of) Signal Warfare On Radio-frequency Devices), the first large-scale framework that allows users to safely conduct real-time and controlled jamming experiments with hardware-in-the-loop. This is done by integrating METEOR, an electronic warfare (EW) threat-emulating software developed by the MITRE Corporation, into the Colosseum wireless network emulator that enables large-scale experiments with up to 49 software-defined radio nodes. We compare the performance of eSWORD with that of real-world jamming systems by using an over-the-air wireless testbed (considering safe measures when conducting experiments). Our experimental results demonstrate that eSWORD achieves up to 98% accuracy in following throughput, signal-to-interference-plus-noise ratio, and link status patterns when compared to real-world jamming experiments, testifying to the high accuracy of the emulated eSWORD setup.</li>
+      </ul>
     </td>
   </tr>
 </table>
-
-
-
-======
-* **** **
-  * 
-  * May 2023
-
-* ***eSWORD:* Implementation of Wireless Jamming Attacks in a Real-World Emulated Network**
-  * IEEE Wireless Communications and Networking Conference (IEEE WCNC 2023), Glasgow, Scotland
-  * March 2023
-  * **_Abstract:_** Jamming attacks have plagued wireless communication systems and will continue to do so going forward with technological advances. These attacks fall under the category of Electronic Warfare (EW), a continuously growing area in both attack and defense of the electromagnetic spectrum, with one subcategory being electronic attacks (EA). Jamming attacks fall under this specific subcategory of EW as they comprise adversarial signals that attempt to disrupt, deny, degrade, destroy, or deceive legitimate signals in the electromagnetic spectrum. While jamming is not going away, recent research advances have started to get the upper hand against these attacks by leveraging new methods and techniques, such as machine learning. However, testing such jamming solutions on a wide and realistic scale is a daunting task due to strict regulations on spectrum emissions. In this paper, we introduce eSWORD (emulation (of) Signal Warfare On Radio-frequency Devices), the first large-scale framework that allows users to safely conduct real-time and controlled jamming experiments with hardware-in-the-loop. This is done by integrating METEOR, an electronic warfare (EW) threat-emulating software developed by the MITRE Corporation, into the Colosseum wireless network emulator that enables large-scale experiments with up to 49 software-defined radio nodes. We compare the performance of eSWORD with that of real-world jamming systems by using an over-the-air wireless testbed (considering safe measures when conducting experiments). Our experimental results demonstrate that eSWORD achieves up to 98% accuracy in following throughput, signal-to-interference-plus-noise ratio, and link status patterns when compared to real-world jamming experiments, testifying to the high accuracy of the emulated eSWORD setup.
 
 
 2018
