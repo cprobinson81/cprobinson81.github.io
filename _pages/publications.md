@@ -14,7 +14,7 @@ author_profile: true
 
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+    <td style="text-align: left; padding: 0; border: 0.1px solid white; vertical-align: top;">
       <h2>2024</h2>
       <ul>
   <li>
@@ -33,7 +33,7 @@ author_profile: true
 
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+    <td style="text-align: left; padding: 0; border: 0.1px solid white; vertical-align: top;">
       <h2>2023</h2>
       <ul>
   <li>
@@ -49,7 +49,7 @@ author_profile: true
 
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
-    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+    <td style="text-align: left; padding: 0; border: 0.1px solid white; vertical-align: top;">
       <h2>2018</h2>
       <ul>
   <li>
