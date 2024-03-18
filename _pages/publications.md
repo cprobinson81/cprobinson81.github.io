@@ -12,11 +12,10 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>2024</h2>
-
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <h2>2024</h2>
       <ul>
   <li>
     D. Uvaydov, M. Zhang, <strong>C. Robinson</strong>, S. D'Oro, T. Melodia and F. Restuccia, <i>"Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching,"</i> <strong>Proc. of IEEE Intl. Conf. on Computer Communications (INFOCOM)</strong>, Vancouver, BC, Canada, May 2024. <a href="https://ece.northeastern.edu/wineslab/papers/UvaydovINFOCOM2024.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/uvaydov2024infocom.txt" target="_blank">[bibtex]</a>
@@ -32,8 +31,11 @@ author_profile: true
   </tr>
 </table>
 
-<h2>2023</h2>
-<ul>
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <h2>2023</h2>
+      <ul>
   <li>
     <strong>C. Robinson</strong>, D. Uvaydov, S. D'Oro, and T. Melodia, <i>"Narrowband Interference detection via Deep Learning,"</i> in <strong>IEEE International Conference on Communications (ICC)</strong>, Rome, Italy, May 2023. <a href="https://ece.northeastern.edu/wineslab/papers/cprob_narrowband_int_icc_23.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/cprobinson_icc_23.txt" target="_blank">[bibtex]</a>
   </li>
@@ -41,9 +43,15 @@ author_profile: true
     <strong>C. Robinson</strong>, L. Bonati, T. van Nieuwstadt, T. Reiss, P. Johari, M. Polese, H. Nguyen, C. Wat- son, T. Melodia, <i>"eSWORD: Implementation of Wireless Jamming Attacks in a Real-World Emulated Network",</i> <strong>IEEE Communications and Networking Conference (WCNC)</strong>, Glasgow, Scotland, March 2023. <a href="https://ece.northeastern.edu/wineslab/papers/robinson2023wcnc.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/robinson2023wcnc.txt" target="_blank">[bibtex]</a>
   </li>
 </ul>
+    </td>
+  </tr>
+</table>
 
-<h2>2018</h2>
-<ul>
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 1px solid white; vertical-align: top;">
+      <h2>2018</h2>
+      <ul>
   <li>
     <i><strong>The Key to Cryptography: The RSA Algorithm</strong></i>
     <ul>
@@ -61,3 +69,6 @@ author_profile: true
     </ul>
   </li>
 </ul>
+    </td>
+  </tr>
+</table>
