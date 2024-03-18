@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">PROFILE</h2>
 </div>
 <div align="center">
