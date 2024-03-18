@@ -29,7 +29,7 @@ author_profile: true
         <li>May 2023</li>
       </ul>
       <img src="../images/esword_poster_23.jpg" alt="WIoT Day Poster" style="width:500px;">
-      <br>
+      <br><br>
       <h2 style="margin-top: 0;"><strong><em>eSWORD:</em> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network</strong></h2>
       <ul style="margin-top: 0;">
         <li>IEEE Wireless Communications and Networking Conference (IEEE WCNC 2023), Glasgow, Scotland</li>
@@ -50,7 +50,7 @@ author_profile: true
         <li>April 2018</li>
       </ul>
       <img src="../images/ncur_poster.jpg" alt="NCUR Poster" style="width:500px;">
-      <br>
+      <br><br>
       <h2 style="margin-top: 0;"><strong>Cyber Law: Past, Present, and Future</strong></h2>
       <ul style="margin-top: 0;">
         <li>Massachusetts Statewide Undergraduate Research Conference, University of Massachusetts Amherst</li>
