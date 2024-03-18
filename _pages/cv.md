@@ -29,7 +29,7 @@ redirect_from:
 </table>
 </div>
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">RESEARCH TOPICS</h2>
 </div>
 <div align="center">
@@ -46,7 +46,7 @@ redirect_from:
 </table>
 </div>
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">EDUCATION</h2>
 </div>
 <div align="center">
@@ -84,7 +84,7 @@ redirect_from:
 </table>
 </div>
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">PROFESSIONAL EXPERIENCE</h2>
 </div>
 <div align="center">
@@ -211,7 +211,7 @@ redirect_from:
 </table>
 </div>
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">RESEARCH / PUBLICATIONS</h2>
 </div>
 <div align="center">
@@ -232,7 +232,7 @@ redirect_from:
 </table>
 </div>
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">TALKS & PRESENTATIONS</h2>
 </div>
 <div align="left">
@@ -343,7 +343,7 @@ redirect_from:
 </table>
 </div>
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">TECHNICAL SKILLS & KNOWLEDGE</h2>
 </div>
 
@@ -397,7 +397,7 @@ redirect_from:
 </table>
 </div>
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">ACHIEVEMENTS & AWARDS</h2>
 </div>
 
@@ -443,7 +443,7 @@ redirect_from:
 </table>
 </div>
 
-<div align="center" style="background-color: lightgrey; padding: 5px 10px;">
+<div align="center" style="background-color: #d8a2f5; padding: 5px 10px;">
   <h2 style="margin: 0;">PROFESSIONAL MEMBERSHIPS</h2>
 </div>
 
