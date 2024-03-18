@@ -19,15 +19,29 @@ author_profile: true
   </tr>
 </table>
 
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 0; border: 0.1px solid white; vertical-align: top;">
+      <h1 style="margin: 0;">2023</h1>
+      <h2 style="margin-top: 0;"><strong><em>eSWORD:</em> Implementation of Wireless Jamming Attacks in a Real-World Emulated Network</strong></h2>
+      <ul style="margin-top: 0;">
+        <li>WIoT Industry Day 2023, Boston, MA</li>
+        <li>May 2023</li>
+      </ul>
+      <br> 
+      <img src="../images/esword_poster_23.jpg" alt="WIoT Day Poster" style="width:500px;">
+      <br>
+    </td>
+  </tr>
+</table>
 
-2023
+
+
 ======
-* ***eSWORD:* Implementation of Wireless Jamming Attacks in a Real-World Emulated Network**
-  * WIoT Industry Day 2023, Boston, MA
+* **** **
+  * 
   * May 2023
-<br> 
-<img src="../images/esword_poster_23.jpg" alt="WIoT Day Poster" style="width:500px;">
-<br>
+
 * ***eSWORD:* Implementation of Wireless Jamming Attacks in a Real-World Emulated Network**
   * IEEE Wireless Communications and Networking Conference (IEEE WCNC 2023), Glasgow, Scotland
   * March 2023
