@@ -4,18 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<hr>
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
 
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 0.1px solid white; vertical-align: top;">
-      <h2>2024</h2>
+      <h2 style="margin: 0;">2024</h2>
       <ul>
   <li>
     D. Uvaydov, M. Zhang, <strong>C. Robinson</strong>, S. D'Oro, T. Melodia and F. Restuccia, <i>"Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching,"</i> <strong>Proc. of IEEE Intl. Conf. on Computer Communications (INFOCOM)</strong>, Vancouver, BC, Canada, May 2024. <a href="https://ece.northeastern.edu/wineslab/papers/UvaydovINFOCOM2024.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/uvaydov2024infocom.txt" target="_blank">[bibtex]</a>
@@ -34,7 +27,7 @@ author_profile: true
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 0.1px solid white; vertical-align: top;">
-      <h2>2023</h2>
+      <h2 style="margin: 0;">2023</h2>
       <ul>
   <li>
     <strong>C. Robinson</strong>, D. Uvaydov, S. D'Oro, and T. Melodia, <i>"Narrowband Interference detection via Deep Learning,"</i> in <strong>IEEE International Conference on Communications (ICC)</strong>, Rome, Italy, May 2023. <a href="https://ece.northeastern.edu/wineslab/papers/cprob_narrowband_int_icc_23.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/cprobinson_icc_23.txt" target="_blank">[bibtex]</a>
@@ -50,7 +43,7 @@ author_profile: true
 <table cellpadding="0" cellspacing="0" border="0" style="background-color: white; border-collapse: collapse;">
   <tr>
     <td style="text-align: left; padding: 0; border: 0.1px solid white; vertical-align: top;">
-      <h2>2018</h2>
+      <h2 style="margin: 0;">2018</h2>
       <ul>
   <li>
     <i><strong>The Key to Cryptography: The RSA Algorithm</strong></i>
