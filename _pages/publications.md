@@ -11,6 +11,12 @@ author_profile: true
       <h2 style="margin: 0;">2024</h2>
       <ul>
   <li>
+    M. Polese, L. Bonati, S. D’Oro, P. Johari, D. Villa, S. Velumani, R. Gangula, M. Tsampazi, <strong>C. P. Robinson</strong>, G. Gemmi, A. Lacava, S. Maxenti, H. Cheng, and T. Melodia, <i>"Colosseum: The Open RAN Digital Twin,"</i> <strong>IEEE Open Journal of the Communications Society</strong>, pp. 1-13, August 2024. <a href="https://ece.northeastern.edu/wineslab/papers/villa2024dt.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/polese2024colosseum.txt" target="_blank">[bibtex]</a>
+  </li>
+  <li>
+    <strong>C. P. Robinson</strong>, P. Johari, and T. Melodia, <i>"<strong>DEMO:</strong> Creating Large-Scale Digital Twins for the Wireless Spectrum Through a Communication Link,"</i> <strong>IEEE 30th International Symposium on Local and Metropolitan Area Networks (LANMAN)</strong>, Boston, MA, USA, August 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10621888" target="_blank">[PDF]</a>
+  </li>      
+  <li>
     D. Uvaydov, M. Zhang, <strong>C. P. Robinson</strong>, S. D'Oro, T. Melodia and F. Restuccia, <i>"Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching,"</i> <strong>Proc. of IEEE Intl. Conf. on Computer Communications (INFOCOM)</strong>, Vancouver, BC, Canada, May 2024. <a href="https://ece.northeastern.edu/wineslab/papers/UvaydovINFOCOM2024.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/uvaydov2024infocom.txt" target="_blank">[bibtex]</a>
   </li>
   <li>
