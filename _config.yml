@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Clifton Paul Robinson"
+  name             : "Clifton Paul Robinson, Ph.D."
   avatar           : "cpr_head.jpeg"
-  bio              : "Cybersecurity Ph.D. Candidate at Northeastern University. Conducting research under Dr. Tommaso Medlodia in the WiNES Lab."
+  bio              : "Cybersecurity Ph.D. whos research focuses on telecommunication security, spectrum sensing, and AI-based wireless solutions."
   location         : "Boston, MA"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "CliffPRobinson"
+  twitter          : # "CliffPRobinson"
   vine             :
   weibo            :
   xing             :
