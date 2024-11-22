@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Clifton Paul Robinson, Ph.D."
+  name             : "Clifton Paul Robinson"
   avatar           : "cpr_head.jpeg"
-  bio              : "Cybersecurity Ph.D. whos research focuses on telecommunication security, spectrum sensing, and AI-based wireless solutions."
+  bio              : "Ph.D. in Cybersecurity with expertise in telecommunication security, spectrum sensing, and AI-driven wireless solutions."
   location         : "Boston, MA"
   employer         :
   pubmed           : 
