@@ -11,6 +11,12 @@ author_profile: true
       <h2 style="margin: 0;">2024</h2>
       <ul>
   <li>
+    <strong>C. P. Robinson</strong>, A. Lacava, P. Johari, F. Cuomo, T. Melodia, <i>"TwiNet: Connecting Real World Networks to their Digital Twins Through a Live Bidirectional Link,"</i> in <strong>Proc. of IEEE Global Communications Conference (GLOBECOM)</strong>, Cape Town, South Africa, December 2024. <a href="https://arxiv.org/pdf/2411.03503" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/robinson2024globecom.txt" target="_blank">[bibtex]</a> <strong>GC'24 Best Paper Award for Mobile and Wireless Networks Symposium</strong>
+  </li>
+  <li>
+    D. Uvaydov, M. Zhang, S. D'Oro, T. Melodia, F. Restuccia, <strong>C. P. Robinson</strong> <i>"Methods for Real-Time Wideband RF Waveform and Emission Classification."</i> U.S. Patent Application No. 18/620,310. October 2024. <a href="https://patents.google.com/patent/US20240334209A1/en" target="_blank">[PDF]</a>
+  </li>
+  <li>
     M. Polese, L. Bonati, S. D’Oro, P. Johari, D. Villa, S. Velumani, R. Gangula, M. Tsampazi, <strong>C. P. Robinson</strong>, G. Gemmi, A. Lacava, S. Maxenti, H. Cheng, and T. Melodia, <i>"Colosseum: The Open RAN Digital Twin,"</i> <strong>IEEE Open Journal of the Communications Society</strong>, pp. 1-13, August 2024. <a href="https://ece.northeastern.edu/wineslab/papers/villa2024dt.pdf" target="_blank">[PDF]</a> <a href="https://ece.northeastern.edu/wineslab/wines_bibtex/polese2024colosseum.txt" target="_blank">[bibtex]</a>
   </li>
   <li>
