@@ -15,22 +15,6 @@ My name is Clifton Paul Robinson. I hold a Ph.D. in Cybersecurity from <a href="
 If you wish to reach me, please email cliftonro [at] gmail [dot] com.
 
 <br>
-
-<p><span style="font-size: 18pt;"><strong>News<br /></strong></span>
-<table style="border-collapse: collapse; border-color: #FFFFFF; border-style: solid; width: 47.0953%;" border="1">
-    <tbody>
-        <tr>
-            <td style="width: 25.0143%;">
-                <p><span style="font-size: 14pt;"><strong>December '24</strong></span>
-            </td>
-            <td style="width: 74.7696%;">
-                <p><span style="font-size: 14pt;">Paper  <I>TwiNet: Connecting Real World Networks to their Digital Twins Through a Live Bidirectional Link</I> received a Best Paper at IEEE GLOBECOM 2024.</span>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<br>
 <hr>
 
 
