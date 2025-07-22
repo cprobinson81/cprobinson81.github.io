@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome To My Personal Site"
+title: "Clifton Paul Robinson"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,10 +9,9 @@ redirect_from:
 ---
 <hr>
 
-My name is Clifton Paul Robinson. I hold a Ph.D. in Cybersecurity from <a href="https://www.northeastern.edu/" target="_blank">Northeastern University</a>, where I conducted research under Professor <a href="https://ece.northeastern.edu/wineslab/tmelodia.php" target="_blank">Tommaso Melodia</a> in the Wireless Networks and Embedded Systems (<a href="https://ece.northeastern.edu/wineslab/index.php" target="_blank">WiNES</a>) Laboratory. My work focuses on wireless network security, including adversarial signals, signal processing and detection with deep learning applications, and more recently, digital twins for the wireless spectrum.
+I am an Assistant Professor of <a href="https://wit.edu/academics/computing-data-science" target="_blank">Computing and Data Science</a> at <a href="https://wit.edu/" target="_blank">Wentworth Institute of Technology</a>. I hold a Ph.D. in Cybersecurity from <a href="https://www.northeastern.edu/" target="_blank">Northeastern University</a>, where I conducted research under Professor <a href="https://ece.northeastern.edu/wineslab/tmelodia.php" target="_blank">Tommaso Melodia</a> in the Wireless Networks and Embedded Systems (<a href="https://ece.northeastern.edu/wineslab/index.php" target="_blank">WiNES</a>) Laboratory. My work focuses on wireless network security, including adversarial signals, signal processing, and detection, as well as deep learning applications, and more recently, digital twins for the wireless spectrum.
 
-
-If you wish to reach me, please email cliftonro [at] gmail [dot] com.
+If you wish to reach me, please email robinsonc8 [at] wit [dot] edu.
 
 <br>
 <hr>
